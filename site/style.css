@@ -2,3 +2,15 @@ h1
 {
 	text-align:center;
 }
+body
+{
+	font-size:16px;
+	color:#fff;
+
+}
+#header-nav
+{
+	background-color:gray;
+	border-radius:0;
+	border:0;
+}
