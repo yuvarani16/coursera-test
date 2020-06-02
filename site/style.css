@@ -31,13 +31,13 @@ float:center;
 text-align:center;
 }
 p{
-
+width:25%;
+float:left;
 display:inline-block;
+border:1px solid black ;
+padding:40px 30px 10px 30px;
+margin:18px;
 
-}
-h2
-{
-	text-align:center;
 }
 
 #p1{
@@ -51,4 +51,7 @@ h2
 #p3
 {
 	background-color:gray;
+}
+section{
+	clear:left;
 }
