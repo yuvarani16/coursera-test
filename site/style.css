@@ -32,9 +32,8 @@ text-align:center;
 }
 
 p{
-	background-color:gray;
-width:10%;
-float:left;
+
+width:25%;
 display:inline-block;
 border:1px solid black ;
 padding:40px 30px 10px 30px;
@@ -48,12 +47,12 @@ margin:18px;
 }
 #p2{
 	background-color:gray;
-	clear:left;
+	
 }
 #p3
 {
 	background-color:gray;
-	clear:left;
+
 }
 section{
 	clear:left;
