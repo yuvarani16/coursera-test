@@ -57,3 +57,12 @@ margin:18px;
 section{
 	clear:left;
 }
+.btn
+{
+
+text-decoration:none;
+position:relative;
+float:center;
+color:#000;
+font-size:20px;
+}
