@@ -71,7 +71,35 @@ section{
     width:65px;
     font-size:20px;
     text-align:center;
+}
+.btn1
+{
+	text-decoration:none;
+	border:1px solid black;
+	padding:8px 10px 2px 10px;
+	position:relative;
+    bottom:41px;
+    left:31px;
+	float:right;
+    color:#000;
+    background-color:pink;
+    width:65px;
+    font-size:20px;
+    text-align:center;
 
-
-
+}
+.btn2
+{
+	text-decoration:none;
+	border:1px solid black;
+	padding:8px 10px 2px 10px;
+	position:relative;
+    bottom:41px;
+    left:31px;
+	float:right;
+    color:#000;
+    background-color:pink;
+    width:65px;
+    font-size:20px;
+    text-align:center;
 }
