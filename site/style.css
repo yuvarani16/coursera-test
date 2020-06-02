@@ -33,6 +33,7 @@ text-align:center;
 
 p{
 
+float:left;
 display:inline-block;
 width:25%;
 border:1px solid black ;
@@ -43,24 +44,20 @@ margin:18px;
 
 #p1{
 	background-color:gray;
+		clear:left;
 	
 }
 #p2{
 	background-color:gray;
-	clear:left;
-
-	
 }
 #p3
 {
 	background-color:gray;
-	clear:left;
-
 
 }
 section{
 	clear:left;
-}
+}/*
 .btn
 {
 	text-decoration:none;
