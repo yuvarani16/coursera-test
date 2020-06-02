@@ -30,7 +30,9 @@ body
 float:center;
 text-align:center;
 }
+
 p{
+	background-color:gray;
 width:25%;
 float:left;
 display:inline-block;
