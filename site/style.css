@@ -26,7 +26,6 @@ body
 	line-height: .75:;
 }
 #call-btn h1{
-	text-align:center;
-	position:relative;
-	left:50px;
+ float:center;
 }
+@media 
