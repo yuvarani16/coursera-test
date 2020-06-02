@@ -48,11 +48,12 @@ margin:18px;
 }
 #p2{
 	background-color:gray;
-
+	clear:left;
 }
 #p3
 {
 	background-color:gray;
+	clear:left;
 }
 section{
 	clear:left;
