@@ -30,7 +30,8 @@ body
 float:center;
 text-align:center;
 }
-p
+#main p
 {
 	background-color:gray;
+	display:inline-block;
 }
