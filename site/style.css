@@ -106,7 +106,7 @@ section{
 }
 @media(max-width:767px)
 {
-	#p1,#p2
+	#p1,#p2,#p3
 	{
 		width:360px;
 		margin:0 auto 15px;
@@ -115,7 +115,7 @@ section{
 }
 @media(max-width:479px)
 {
-	#p1,#p2
+	#p1,#p2,#p3
 	{
 		width:280px;
 		margin:0 auto 15px;
