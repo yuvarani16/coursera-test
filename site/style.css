@@ -127,29 +127,14 @@ section{
 }
 @media(min-width:992px)and(max-width:1199px)
 { 
-	#p1,#p2 
-	{
-		width:360px;
-		margin:0 auto 5px;
-	}
-	#p3
-	{
-		width:860px;
-	}
+	
 
 
 }
 @media(min-width:768px)and(max-width:991px)
 {
-	#p1,#p2
-	{
-		width:360px;
-		margin:0 auto 5px;
-	}
-	#p3
-	{
-		width:860px;
+	
 
-	}
+
 
 }
