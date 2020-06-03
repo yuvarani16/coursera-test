@@ -144,11 +144,12 @@ section{
 	#p1,#p2
 	{
 		width:360px;
-		margin:0 auto 15px;
+		margin:0 auto 5px;
 	}
 	#p3
 	{
-		width:760px;
+		width:860px;
+
 	}
 
 }
