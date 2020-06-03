@@ -108,13 +108,19 @@ section{
 {
 	margin-top:10px;
 }
-#nav-list ul li
+#nav-list a
 {
-	text-decoration:none;
-	float:right;
-	display:inline-block;
+	color:#951C49;
+	text-align:center;
 
 }
+#nav-list a:hover
+{
+background:#E7E7E7;
+
+}
+
+
 @media(max-width:767px)
 {
 	#p1,#p2,#p3
